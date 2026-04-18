@@ -1,6 +1,6 @@
 # Wireless-OTA-Update
 
-This project updates firmware remotely wia Wi-Fi (Over-The-Air).
+This project updates firmware remotely via Wi-Fi (Over-The-Air).
 
 ## Feature
 * Updates via HTTP protocol.

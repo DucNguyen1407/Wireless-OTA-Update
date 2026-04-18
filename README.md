@@ -39,4 +39,4 @@ To ensure the OTA process functions correctly, don't forget to configure the App
 
 
 ## Contribution
-Leave a Star if you find this helpful!
+Contributions are welcome! Please feel free to submit issues or pull requests.

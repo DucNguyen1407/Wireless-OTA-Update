@@ -30,11 +30,11 @@ To ensure the OTA process functions correctly, don't forget to configure the App
 ## Operating Steps
 1. Flash STM32 Bootloader: Flash bootloader.bin to address 0x08000000 using ST-Link.
 
-2. Get ESP32 IP: Power on ESP32 and check Serial Monitor for its Local IP. Open this IP in your browser to see the Wireless OTA Update page.
+2. Get ESP32 IP: Power on ESP32 and check Serial Monitor for its Local IP, open this IP in your browser to see the Wireless OTA Update page.
 
-3. Upload Firmware: Select firmware.bin on the website and click Upload. ESP32 will send the file to STM32 via UART.
+3. Upload Firmware: Select firmware.bin on the website and click Upload, ESP32 will send the file to STM32 via UART.
 
-4. LED Indicators: Update Success: LED stays ON for 2 seconds. Running Mode: LED blinks every 500ms (New firmware is active).
+4. LED Indicators: When update is success, LED stays ON for 2 seconds. After that, LED blinks every 500ms (New firmware is active).
    
 
 
